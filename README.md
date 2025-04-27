@@ -1,6 +1,4 @@
-<h2 align="left">Olá👋! Meu nome é Guilherme Henrique, estudante de Engenharia de Software</h2>
-
-<h2 align="left">Hello👋! My name is Guilherme Henrique, Software Engineering student</h2>
+<h2 align="left">Hi👋! My name is Guilherme Henrique and i'm a Software Engineering student</h2>
 
 ###
 
