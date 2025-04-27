@@ -38,6 +38,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/GuinaF2/GuinaF2/output/snake.svg" alt="Snake animation" />
 
 ###
