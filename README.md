@@ -7,13 +7,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuinaF2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<h2>Sobre Mim</h2>
+<h2>About Me</h2>
 <p>
   Possuo experiência em desenvolvimento de projetos utilizando a framework .NET, 
 </p>
 
 <div align="left">
-  <h2>Linguagens de Programação</h2>
+  <h2>Programming Languages</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
    <img width="12" />
    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="30" alt="DotNet logo"  />
@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
-  <h2>Contatos</h2>
+  <h2>Contact</h2>
   <a href="https://www.linkedin.com/in/guilherme-henrique-oli-dasilva/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linkedin logo"/> </a>
   <a  href="mailto:guilhermehenriqueo.silva@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="35" alt="Outlook logo" /> </a>
 </div>
