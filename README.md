@@ -9,11 +9,11 @@
 
 <h2>About Me</h2>
 
-<p>👋 Hello! I'm Guilherme Henrique, a passionate Software Engineering student.</p>
-<p>💡 I love building efficient and reliable software solutions, working mainly with C#, .NET, MySQL, HTML, CSS, and JavaScript.</p>
-<p>:computer:</p>
-<p>📚 I'm always excited to learn new technologies and take on challenges that push my skills forward.</p>
-<p>🌎 Living in Curitiba, Brazil, I'm looking for opportunities to grow, collaborate, and contribute to innovative projects.</p>
+<p>:wave: Hello! I'm Guilherme Henrique, a passionate Software Engineering student.</p>
+<p>:bulb: I love building efficient and reliable software solutions, working mainly with C#, .NET, MySQL, HTML, CSS, and JavaScript.</p>
+<p>:computer:</p>Developed a Transport Management System and Currently working on a Multi Platform App using Geo Location
+<p>:books: I'm always excited to learn new technologies and take on challenges that push my skills forward.</p>
+<p>:earth_americas: Living in Curitiba, Brazil, I'm looking for opportunities to grow, collaborate, and contribute to innovative projects.</p>
 
 
 <div align="left">
