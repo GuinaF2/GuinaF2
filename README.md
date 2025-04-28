@@ -13,6 +13,7 @@
 </p>
 
 <div align="left">
+  <h2>Linguagens de Programação</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
    <img width="12" />
    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="30" alt="DotNet logo"  />
