@@ -11,8 +11,9 @@
 
 <p>👋 Hello! I'm Guilherme Henrique, a passionate Software Engineering student.</p>
 <p>💡 I love building efficient and reliable software solutions, working mainly with C#, .NET, MySQL, HTML, CSS, and JavaScript.</p>
-<p>📚 I'm always eager to learn new technologies and take on exciting challenges that push my skills forward.</p>
-<p>🌎 Based in Curitiba, Brazil, I'm looking to grow, collaborate, and contribute to innovative projects.</p>
+<p></p>
+<p>📚 I'm always excited to learn new technologies and take on challenges that push my skills forward.</p>
+<p>🌎 Living in Curitiba, Brazil, I'm looking for opportunities to grow, collaborate, and contribute to innovative projects.</p>
 
 
 <div align="left">
