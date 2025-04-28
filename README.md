@@ -9,7 +9,10 @@
 
 <h2>About Me</h2>
 <p>
-  Possuo experiência em desenvolvimento de projetos utilizando a framework .NET, 
+👋 Hello! I'm Guilherme Henrique, a passionate Software Engineering student.
+💡 I love building efficient and reliable software solutions, working mainly with C#, .NET, MySQL, HTML, CSS, and JavaScript.
+📚 I'm always eager to learn new technologies and take on exciting challenges that push my skills forward.
+🌎 Based in Curitiba, Brazil, I'm looking to grow, collaborate, and contribute to innovative projects.
 </p>
 
 <div align="left">
