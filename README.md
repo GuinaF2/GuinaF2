@@ -8,7 +8,9 @@
 </div>
 
 ###
-
+<p font-size=2rem;>
+  Possuo experiência em desenvolvimento de projetos utilizando a framework .NET, 
+</p>
 ###
 
 <div align="left">
