@@ -31,8 +31,8 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/guilherme-henrique-oli-dasilva/" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a  href="mailto:guilhermehenriqueo.silva@outlook.com" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/guilherme-henrique-oli-dasilva/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/> </a>
+  <a  href="mailto:guilhermehenriqueo.silva@outlook.com"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> </a>
 </div>
 
 ###
