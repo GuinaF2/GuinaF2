@@ -52,7 +52,7 @@ I am a **Software Engineering student** passionate about technology and open sou
 ## 📫 Connect with me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/guilherme-henrique-oli-dasilva/" target="_blank">
+  <a href="https://www.linkedin.com/in/guilhermesilvahenrique/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:guilhermehenriqueo.silva@outlook.com">
