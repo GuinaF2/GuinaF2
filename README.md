@@ -1,46 +1,65 @@
-<h2 align="left">Hi there, welcome!!</h2>
-
-###
+<h1 align="center">Hi there, I'm Guilherme Henrique! 👋</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuinaF2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuinaF2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35"/> 
+  <br/>
+  <strong>Software Engineering Student | Back End Developer</strong>
 </div>
 
-<h2>About Me</h2>
+<br/>
 
-<p>:wave: Hello! I'm Guilherme Henrique, a passionate Software Engineering student.</p>
-<p>:bulb: I love building efficient and reliable software solutions, working mainly with C#, .NET, MySQL, HTML, CSS, and JavaScript.</p>
-<p>:computer: Developed a Transport Management System and Currently working on a Multi Platform App using Geo Location</p>
-<p>:books: I'm always excited to learn new technologies and take on challenges that push my skills forward.</p>
-<p>:earth_americas: Living in Curitiba, Brazil, I'm looking for opportunities to grow, collaborate, and contribute to innovative projects.</p>
-
-
-<div align="left">
-  <h2>Technologies</h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-   <img width="12" />
-   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="30" alt="DotNet logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="MySql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" alt=GitHub logo />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="Html5 logo"  />
-   <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo"  />
-  <img width="12" />
+<div align="center">
+  <a href="https://github.com/GuinaF2">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GuinaF2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuinaF2&layout=compact&langs_count=6&theme=dracula&hide_border=true"/>
+  </a>
 </div>
 
-###
+<br/>
 
-<div align="left">
-  <h2>Contact</h2>
-  <a href="https://www.linkedin.com/in/guilherme-henrique-oli-dasilva/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linkedin logo"/> </a>
-  <a  href="mailto:guilhermehenriqueo.silva@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="35" alt="Outlook logo" /> </a>
+## 👨‍💻 About Me
+
+I am a **Software Engineering student** passionate about technology and open source. My goal here is to share the projects that motivate me to study, while learning from the community to build better and more efficient applications.
+
+- 🎓 I’m currently deep-diving into the **.NET Ecosystem**, **C#**, and **Software Architecture**.
+- 🌱 I’m actively studying **Microsoft Azure** and advanced **GitHub** workflows (Actions/CI/CD).
+- 🚀 I love to challenge myself by building systems that solve real-world problems.
+- 🤝 I’m looking to collaborate on open-source projects and connect with other developers.
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+
+<br/>**Core & Frameworks**<br/>
+<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ADO.NET-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+
+<br/>**Tools & Cloud**<br/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
 </div>
 
+<br/>
 
+## 📫 Connect with me
 
-###
+<div align="center">
+  <a href="https://www.linkedin.com/in/guilherme-henrique-oli-dasilva/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:guilhermehenriqueo.silva@outlook.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"/>
+  </a>
+</div>
